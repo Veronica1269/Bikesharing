@@ -25,70 +25,70 @@ The following analysis was conducted to demonstrate the potential of investing i
 
 ## Results 
 
-- The analysis was completed in Tableau to create dynamic and straightforward graphs to better comprehend the data.     Several graphs can be referenced below: 
+The analysis was completed in Tableau to create dynamic and straightforward graphs to better comprehend the data.     Several graphs can be referenced below: 
 
 
 
 #### Checkout Times for Users
 
 
-    ![Checkout_Times_Users](Resources/Checkout_Times_Users.png)
+![Checkout_Times_Users](Resources/Checkout_Times_Users.png)
 
-	The above line graph shows the **average time** a bike was checked out by the users, which can be useful to offer fair pricing and ideal rental time slots for the bikes.  
+The above line graph shows the "average time" a bike was checked out by the users, which can be useful to offer fair pricing and ideal rental time slots for the bikes.  
 
 
 
 #### Checkout Times by Gender
 
 
-    ![Checkout_Times_Gender](Resources/Checkout_Times_Gender.png)
+![Checkout_Times_Gender](Resources/Checkout_Times_Gender.png)
 
-	The above graphic is a more detailed look into the checkout times, and it looks into **gender**, which can be useful to understand trends and how to cater to all demographics and perhaps offer bikes that can meet the needs of different users. 
+The above graphic is a more detailed look into the checkout times, and it looks into "gender", which can be useful to understand trends and how to cater to all demographics and perhaps offer bikes that can meet the needs of different users. 
 
 
 
 #### August Peak Hours
 
 
-    ![Peak_Hours](Resources/Peak_Hours.png)
+![Peak_Hours](Resources/Peak_Hours.png)
 
-	During the summer months, bike rentals tend to be at the highest since the weather is warm and people tend to spend their spare time outdoors, which is clearly reflected by the data and the bar chart above. In the month of August, a popular summer month, the most popular times were from **7 AM to 8 PM**.  
+During the summer months, bike rentals tend to be at the highest since the weather is warm and people tend to spend their spare time outdoors, which is clearly reflected by the data and the bar chart above. In the month of August, a popular summer month, the most popular times were from 7 AM to 8 PM.  
 
 
 
 #### Top Ending Locations
 
 
-    ![Top_Ending_Locations](Resources/Top_Ending_Locations.png)
+![Top_Ending_Locations](Resources/Top_Ending_Locations.png)
 
-	For a bike renting business to be effective there needs to be a clear understanding of areas within cities that have higher demand and where most of the bikes need to be allocated to ensure there is enough supply. The above visualization shows the **top ending locations** in NYC which reflects where the majority of the bikes were taken when they were checked out by the users. 
+For a bike renting business to be effective there needs to be a clear understanding of areas within cities that have higher demand and where most of the bikes need to be allocated to ensure there is enough supply. The above visualization shows the "top ending locations" in NYC which reflects where the majority of the bikes were taken when they were checked out by the users. 
 
 
 
 #### Trips by Weekday for Each Hour
 
 
-    ![Trips_Weekday_Hour](Resources/Trips_Weekday_Hour.png)
+![Trips_Weekday_Hour](Resources/Trips_Weekday_Hour.png)
 
-	This heatmap shows the density of use per hour, clearly pointing to **higher bike use during the evenings and towards the weekend**. 
+This heatmap shows the density of use per hour, clearly pointing to higher bike use during the evenings and towards the weekend. 
 
 
 
 #### Trips by Gender per Hour
 
 
-    ![Trips_Gender_Hour](Resources/Trips_Gender_Hour.png)
+![Trips_Gender_Hour](Resources/Trips_Gender_Hour.png)
 
-	This heatmap expands on the use per weekday by the hour in terms of gender, to get a **clearer idea of peak use time for different demographics**. 
+This heatmap expands on the use per weekday by the hour in terms of "gender", to get a clearer idea of peak use time for different demographics. 
 
 
 
 #### User Trips by Gender by Weekday
 
 
-    ![User_Trips_Gender_Weekday](Resources/User_Trips_Gender_Weekday.png)
+![User_Trips_Gender_Weekday](Resources/User_Trips_Gender_Weekday.png)
 
-	This heatmap displays the usage by user type, that being a subscriber to a bike rental subscription or a regular paying customer who checks out a bike for a single-use trip. The heatmap shows, the user type, the **gender** and the usage **per day** by the **start time**. 
+This heatmap displays the usage by user type, that being a subscriber to a bike rental subscription or a regular paying customer who checks out a bike for a single-use trip. The heatmap shows, the user type, the "gender" and the "usage per day" by the start time. 
 
 
 
